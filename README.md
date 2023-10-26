@@ -1,5 +1,7 @@
-# YOUR SONG
+# Crazy by Gnarls Barkley
 
-> Lyric from your song
+> Does that make me crazy? Does that make me crazy?
 
 ## Citations
+-[Genius](https://genius.com/Gnarls-barkley-crazy-lyrics)
+[Open Props](https://open-props.style)

@@ -4,4 +4,4 @@
 
 ## Citations
 -[Genius](https://genius.com/Gnarls-barkley-crazy-lyrics)
-[Open Props](https://open-props.style)
+-[Open Props](https://open-props.style)

@@ -1,0 +1,66 @@
+/* Import, Install, etc. Open Props */
+@import "https://unpkg.com/open-props";
+/* Import of Google Fonts */
+@import url(<link href="https://api.fontshare.com/css?f[]=Tanker@400,700&display=swap" rel="stylesheet">);
+
+
+/* Diagnostic Styling */
+* {
+/*   outline: 1px double gray; */
+}
+
+body {
+  background : var(--gradient-24);
+ 
+}
+
+/* Main Container */
+main {
+  width: 1000px;
+  margin: 0 auto 0 auto;
+  padding: 32px;
+  text-align: center;
+  font-family: 'Tanker', sans-serif;
+  background: white; 
+  
+ 
+}
+
+audio {
+  width: 100%;
+}
+
+/* score: 0,0,0,1 */
+h1 {
+  text-align: center;
+}
+
+/* score: 0,0,1,1 */
+h1:hover {
+  animation: var(--animation-shake-x);
+}
+
+h1 a {
+  font-family: "Tanker";
+  color: dark blue;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  color: var(--blue-6);
+}
+
+/* Snarky Ass Comments */
+span {
+  font-family: "chewy";
+  font-size: 24px;
+  padding: 12px;
+  
+  background: rgba(255,255,255,.5);
+  border-radius: var(--radius-blob-3);
+}
+
+span:hover {
+  display: inline-block;
+  animation: var(--animation-shake-x);
+}

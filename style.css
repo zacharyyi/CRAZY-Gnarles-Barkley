@@ -12,6 +12,10 @@
 
 body {
   background: linear-gradient(114.3deg, rgb(19, 126, 57) 0.2%, rgb(8, 65, 91) 68.5%);
+
+  background-image:url(https://media.tenor.com/BOu8ryjIR38AAAAC/sound-wave-wave.gif);
+  background-size: contain;
+  
   
  }
 
@@ -19,13 +23,13 @@ body {
 main {
   width: 1000px;
   margin: 0 auto 0 auto;
-  padding: 18px;
+  padding: 10px;
   text-align: center;
-  font-size: 15px; 
+  font-size: 27px; 
   font-family: 'Tanker', sans-serif;
   background: black; 
   border-radius: var(--radius-blob-2);
-  inline-size: var(--size-26);
+ 
   }
 
 
@@ -52,7 +56,7 @@ h1 a {
 }
 
 h1 a:hover {
-  color: var(--green-6);
+  color: var(--white-1);
 }
 
 /* Snarky Ass Comments */
